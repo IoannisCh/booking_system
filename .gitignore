@@ -172,3 +172,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual Environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific files
+.vscode/
+# Add other IDE/OS files if needed (e.g., .DS_Store for macOS)
+
+# Data files (Optional - if data is large or sensitive,
+# describe how to get it in README instead of committing it)
+# data/*.csv
+# data/*.xlsx
+
+# Output files (Optional - good practice not to commit generated plots directly
+# unless they are key results for documentation/README)
+# visualizations/*.png
+# visualizations/*.jpg
